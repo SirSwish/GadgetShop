@@ -9,7 +9,7 @@
     ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
 # Gadget Shop
-GadgetShop is a Python GUI that imports RP++ gadget dumps and helps you assemble ROP chains to set up and call VirtualAlloc for DEP bypass. It can:
+GadgetShop is a Python CLI that imports RP++ gadget dumps and helps you assemble ROP chains to set up and call VirtualAlloc for DEP bypass. It can:
 
 - **Filter by bad‐byte addresses**:  
   Accepts a list of bad‐byte patterns and removes any gadget whose address contains disallowed bytes (e.g., `\x00`, `\x0a`).
