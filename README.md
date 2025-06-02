@@ -1,3 +1,13 @@
+                                                            _                                                                                               
+                                         ^^                /|\                                                                                              
+                   _____________________|  |_____         /||o\                                                                                             
+                  /________G A D G E T __________\       /|o|||\                                                                                            
+                 /___________S H O P _____________\     /|||||o|\                                                                                           
+                   ||___|___||||||||||||___|__|||      /||o||||||\                                                                                          
+                   ||___|___||||||||||||___|__|||          | |                                                                                              
+                   ||||||||||||||||||||||||||||||oooooooooo| |ooooooo                                                                                       
+    ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
 # Gadget Shop
 GadgetShop is a Python GUI that imports RP++ gadget dumps and helps you assemble ROP chains to set up and call VirtualAlloc for DEP bypass. It can:
 
